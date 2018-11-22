@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Label
+comment0.text=\r\n\ A\ Label\ class\ that\ allows\ you\ to\ display\ a\ textual\ value\ on\ screen.\r\n\ \r\n\ The\ Label\ is\ an\ actor,\ so\ you\ will\ need\ to\ create\ it,\ and\ then\ add\ it\ to\ the\ world\r\n\ in\ Greenfoot.\ \ If\ you\ keep\ a\ reference\ to\ the\ Label\ then\ you\ can\ change\ the\ text\ it\r\n\ displays.\ \ \r\n\r\n\ @author\ Amjad\ Altadmri\ \r\n\ @version\ 1.1\r\n
+comment1.params=text\ size
+comment1.target=Label(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Label\r\n\ \r\n\ @param\ text\ is\ the\ text\ that\ will\ be\ displayed\ in\ the\ label\r\n\ @param\ size\ is\ the\ text\ size\ of\ the\ text\ that\ will\ be\ displayed\ in\ the\ label\r\n\ @return\ An\ object\ of\ type\ Label\r\n
+comment2.params=
+comment2.target=void\ updateImage()
+comment2.text=\r\n\ UpdateImage\r\n\ \r\n\ Updates\ the\ image\ text,\ font\ size,\ background\ color,\ image\ color,\ and\ line\ color.\r\n\ @param\ value\ Sets\ the\ text.\r\n\ @param\ fontSize\ Sets\ the\ font\ size.\r\n\ @param\ fillColor\ Sets\ the\ box\ color.\r\n\ @param\ TRANSPARENT\ Makes\ the\ image\ background\ transparent.\r\n\ @param\ lineColor\ Sets\ the\ font\ color.\r\n\ @return\ Returns\ nothing.\r\n
+comment3.params=text
+comment3.target=void\ setValue(java.lang.String)
+comment3.text=\r\n\ SetValue\r\n\ \r\n\ Sets\ new\ text\ for\ the\ image.\r\n\ \r\n\ @param\ text\ The\ text\ to\ be\ displayed.\r\n
+comment4.params=color
+comment4.target=void\ setLineColor(greenfoot.Color)
+comment4.text=\r\n\ setLineColor\r\n\ \r\n\ Sets\ the\ font\ color\ for\ the\ image.\r\n\ \r\n\ @param\ color\ The\ color\ to\ be\ set.\r\n
+comment5.params=color
+comment5.target=void\ setFillColor(greenfoot.Color)
+comment5.text=\r\n\ setFillColor\r\n\ \r\n\ Sets\ the\ box\ color.\r\n\ \r\n
+numComments=6
